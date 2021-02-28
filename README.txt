@@ -26,8 +26,7 @@ iii. Cara Menggunakan
         XX diganti dengan angka sesuai nama file yang tersedia.
         
      >> Format File Input
-        File input ditulis dengan huruf kapital dengan format seperti
-        contoh berikut.
+        File input ditulis dengan format seperti contoh berikut.
         C1.
         C2, C1.
         C3, C2, C1.
