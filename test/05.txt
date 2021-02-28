@@ -1,0 +1,14 @@
+Biologi I.
+Biologi II, Biologi I.
+Kimia I.
+Matematika I.
+Matematika II, Matematika I.
+Seni Rupa.
+Seni Musik, Seni Rupa.
+Seni Tari, Seni Rupa.
+Pengetahuan Lingkungan.
+Bahasa Indonesia.
+Bahasa Sunda.
+Olahraga.
+Sejarah Dunia, Sejarah Indonesia.
+Sejarah Indonesia.

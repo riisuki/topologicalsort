@@ -1,0 +1,14 @@
+Matematika 1A.
+Matematika 2A, Matematika 1A.
+Fisika 1A.
+Fisika 2A, Fisika 1A.
+Kimia B.
+Bahasa Inggris.
+Tata Tulis Karya Ilmiah.
+Dasar Pemrograman, Pengenalan Komputasi.
+Pengenalan Komputasi.
+Strategi Algoritma, Dasar Pemrograman, Pengenalan Komputasi, Algoritma dan Struktur Data.
+Algoritma dan Struktur Data, Dasar Pemrograman, Pengenalan Komputasi.
+Probabilitas dan Statistika, Matematika 1A, Matematika 2A.
+Logika Komputasional.
+Matematika Diskrit.
